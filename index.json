@@ -1,0 +1,320 @@
+{
+  "library": "Mellotron",
+  "format": "flac",
+  "fileCount": 52,
+  "files": [
+    {
+      "file": "A__300_VIOLA.flac",
+      "name": "A# 300 VIOLA",
+      "size": 510723,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "A_1.300_CELL.flac",
+      "name": "A#1.300 CELL",
+      "size": 387529,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "A_2.300_CELL.flac",
+      "name": "A#2.300 CELL",
+      "size": 415003,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "A_3_300_VIOL.flac",
+      "name": "A#3 300 VIOL",
+      "size": 479621,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "A_4_300_VIOL.flac",
+      "name": "A#4 300 VIOL",
+      "size": 478339,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "A1.300_CELLO.flac",
+      "name": "A1.300 CELLO",
+      "size": 395307,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "A2.300_CELLO.flac",
+      "name": "A2.300 CELLO",
+      "size": 377151,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "A3_300_VIOLA.flac",
+      "name": "A3 300 VIOLA",
+      "size": 441186,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "A4_300_VIOLA.flac",
+      "name": "A4 300 VIOLA",
+      "size": 451857,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "A5_300_VIOLA.flac",
+      "name": "A5 300 VIOLA",
+      "size": 478821,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "B1.300_CELLO.flac",
+      "name": "B1.300 CELLO",
+      "size": 416413,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "B2.300_CELLO.flac",
+      "name": "B2.300 CELLO",
+      "size": 425073,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "B3_300_VIOLA.flac",
+      "name": "B3 300 VIOLA",
+      "size": 495094,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "B4_300_VIOLA.flac",
+      "name": "B4 300 VIOLA",
+      "size": 503487,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "B5_300_VIOLA.flac",
+      "name": "B5 300 VIOLA",
+      "size": 505464,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "C_2300.CELLO.flac",
+      "name": "C#2300.CELLO",
+      "size": 365750,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "C_3300.CELLO.flac",
+      "name": "C#3300.CELLO",
+      "size": 471784,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "C_4_300_VIOL.flac",
+      "name": "C#4 300 VIOL",
+      "size": 466624,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "C_5_300_VIOL.flac",
+      "name": "C#5 300 VIOL",
+      "size": 518457,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "C2._300_CELL.flac",
+      "name": "C2. 300 CELL",
+      "size": 456734,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "C3_300_CELLO.flac",
+      "name": "C3 300 CELLO",
+      "size": 441242,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "C4_300_VIOLA.flac",
+      "name": "C4 300 VIOLA",
+      "size": 477633,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "C5_300_VIOLA.flac",
+      "name": "C5 300 VIOLA",
+      "size": 505701,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "C6_300_VIOLA.flac",
+      "name": "C6 300 VIOLA",
+      "size": 495692,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "D_2.300_CELL.flac",
+      "name": "D#2.300 CELL",
+      "size": 442094,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "D_3_300_CELL.flac",
+      "name": "D#3 300 CELL",
+      "size": 477360,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "D_4_300_VIOL.flac",
+      "name": "D#4 300 VIOL",
+      "size": 496919,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "D_5_300_VIOL.flac",
+      "name": "D#5 300 VIOL",
+      "size": 524606,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "D2.300_CELLO.flac",
+      "name": "D2.300 CELLO",
+      "size": 428491,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "D3_300_CELLO.flac",
+      "name": "D3 300 CELLO",
+      "size": 472720,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "D4_300_VIOLA.flac",
+      "name": "D4 300 VIOLA",
+      "size": 487425,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "D5_300_VIOLA.flac",
+      "name": "D5 300 VIOLA",
+      "size": 502408,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "E2.300_CELLO.flac",
+      "name": "E2.300 CELLO",
+      "size": 433251,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "E3_300_VIOLA.flac",
+      "name": "E3 300 VIOLA",
+      "size": 476273,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "E4_300_VIOLA.flac",
+      "name": "E4 300 VIOLA",
+      "size": 513291,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "E5_300_VIOLA.flac",
+      "name": "E5 300 VIOLA",
+      "size": 491433,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "F_2300.CELLO.flac",
+      "name": "F#2300.CELLO",
+      "size": 393556,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "F_3_300_VIOL.flac",
+      "name": "F#3 300 VIOL",
+      "size": 476228,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "F_4_300_VIOL.flac",
+      "name": "F#4 300 VIOL",
+      "size": 498325,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "F_5_300_VIOL.flac",
+      "name": "F#5 300 VIOL",
+      "size": 532851,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "F2._300_CELL.flac",
+      "name": "F2. 300 CELL",
+      "size": 439374,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "F3_300_VIOLA.flac",
+      "name": "F3 300 VIOLA",
+      "size": 465027,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "F4_300_VIOLA.flac",
+      "name": "F4 300 VIOLA",
+      "size": 484222,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "F5_300_VIOLA.flac",
+      "name": "F5 300 VIOLA",
+      "size": 480434,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "G_2.300_CELL.flac",
+      "name": "G#2.300 CELL",
+      "size": 347373,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "G_3_300_VIOL.flac",
+      "name": "G#3 300 VIOL",
+      "size": 474490,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "G_4_300_VIOL.flac",
+      "name": "G#4 300 VIOL",
+      "size": 476412,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "G_5_300_VIOL.flac",
+      "name": "G#5 300 VIOL",
+      "size": 504241,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "G2.300_CELLO.flac",
+      "name": "G2.300 CELLO",
+      "size": 413303,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "G3_300_VIOLA.flac",
+      "name": "G3 300 VIOLA",
+      "size": 469774,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "G4_300_VIOLA.flac",
+      "name": "G4 300 VIOLA",
+      "size": 499288,
+      "source": "archive.org m4a (lossy)"
+    },
+    {
+      "file": "G5_300_VIOLA.flac",
+      "name": "G5 300 VIOLA",
+      "size": 510222,
+      "source": "archive.org m4a (lossy)"
+    }
+  ],
+  "note": "From archive.org m4a (lossy source)"
+}
